@@ -11,7 +11,20 @@ Anyone can use this data set as long as the data is cited somewhere in the repor
 
 ## Data Dictionary
 
-## Exploratory Plots
+| Column | Description | Potential Responses |
+|:------:|:-----------:|:--------------------|
+| Rating | This is the score written by the customer in their review on a scale of 1 to 5. | 1,2,3,4,5 |
+| Date | This is the date at which the review was placed by the customer. | 12 2, 2016 |
+| Reviewer_ID | This is the unique ID given to each customer who made a review. | A1X0IOOF3J0OXB, A3RMA1DD66JDRV |
+| Product ID | This is the unique ID given to each product that was reviewed by the customers. | B01HIV7FC4, 0972585419 |
+| Reviewer_Name | This is the name of the customer who made a review. | Pamela Mathers, Susan P. |
+| Review | This is the whole review that the customer gave a product. | These are not rounded. I bought them for my little dog but shes not able to pick them up with her mouth. Also, in the picture they look solid. They are bigger than a jack ball. Otherwise, they might be good for someone else. |
+| Summary_Review | This is a summarized review that the customer gave a product. | Read description carefully. |
+|  Rating_Bucket | This variable contained either “Not good” or “Good” based on their scores. | Good, Not Good |
+| Month | This variable gives us the month that a particular review was created. | January, February |
+| review_clean | This variable gives us a clean version of the Review column. | 0395 a can decent deal and the cats love all the flavors |
 
-![](rating_distribution.png)
-![]("C:\Users\ham04\Downloads\over_months.png")
+
+## Exploratory Plots
+<img width="800" height="500" alt="rating_distribution" src="https://github.com/user-attachments/assets/b01ecc18-8cc6-4eeb-a978-7595cbb13ab2" />
+<img width="1200" height="600" alt="over_months" src="https://github.com/user-attachments/assets/191c2446-6621-4783-8bc6-8118dd54cf88" />
