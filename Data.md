@@ -12,5 +12,6 @@ Anyone can use this data set as long as the data is cited somewhere in the repor
 ## Data Dictionary
 
 ## Exploratory Plots
-<img src="rating_distribution.png" alt="isolated" width="200"/>
-<img src="over_months.png" alt="isolated" width="200"/>
+
+![](rating_distribution.png)
+![]("C:\Users\ham04\Downloads\over_months.png")
