@@ -26,5 +26,7 @@ Anyone can use this data set as long as the data is cited somewhere in the repor
 
 
 ## Exploratory Plots
-<img width="800" height="500" alt="rating_distribution" src="https://github.com/user-attachments/assets/b01ecc18-8cc6-4eeb-a978-7595cbb13ab2" />
+
+<img width="800" height="500" alt="rating_distribution" src="https://github.com/user-attachments/assets/a7e92d2b-2dcc-4e7a-a975-757051d7a311" />
+
 <img width="1200" height="600" alt="over_months" src="https://github.com/user-attachments/assets/191c2446-6621-4783-8bc6-8118dd54cf88" />
