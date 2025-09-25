@@ -1,5 +1,8 @@
 # Metadata
 
+## Directions to Access Data
+To access the data, go to this website: https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/ . Scroll down until you reach the “small datasets for experimentation”. Find the row that says “Pet Supplies” and then click the link that says “5-core”.
+
 ## Data Summary
 This dataset originally had 12 columns and 2,098,325 rows. We ended up narrowing the final dataset only to include 8 columns and 2,097,208 rows. One of the columns (Review_Buckets) was added to the original columns by assigning scores that were 1, 2, or 3 to “Not Good” and 4 or 5 to “Good”. This will be the variable that our model is trying to predict.
 
@@ -30,3 +33,4 @@ Anyone can use this data set as long as the data is cited somewhere in the repor
 <img width="800" height="500" alt="rating_distribution" src="https://github.com/user-attachments/assets/a7e92d2b-2dcc-4e7a-a975-757051d7a311" />
 
 <img width="1200" height="600" alt="over_months" src="https://github.com/user-attachments/assets/191c2446-6621-4783-8bc6-8118dd54cf88" />
+
