@@ -9,11 +9,14 @@ This repository has 5 folders. The README.md file contains all of the informatio
 
 # Section 2
 ```bash
-├── Data.md
+├── Data
+│   ├── Data.md
 ├── LICENSE
 ├── Output
+│   ├── Output.md
 ├── README.md
 ├── Scripts
+│   ├── DS_4002_MI3.ipynb
 ```
   
   # Section 3
